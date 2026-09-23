@@ -6,7 +6,7 @@
 - ## *Código objeto:* Es el código fuente, que ha sido traducido por un compilador a un lenguaje que el ordenador pueda entender mejor (denominado lenguaje de bajo nivel). No suele ser directamente comprensible por una persona.
 - ## *Código ejectuable:* Es el código que está preparado para que el ordenador lo ejecute y pueda ya realizar la tarea.
 ![Imágen_codigo_ejecutable](Imagenes/CodigoMaquinaImagen.jpeg)
-## _Para crear un programa informático hay que atravesar varias etapas:_
+# _Para crear un programa informático hay que atravesar varias etapas:_
 - ## *Análisis de requisitos:*
   - ### Básicamente es saber qué es lo que quieres o necesitas que haga el programa en función de las necesidades.
 - ## *Diseño:*
